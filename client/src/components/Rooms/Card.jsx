@@ -19,7 +19,7 @@ const Card = ({ room }) => {
               object-cover 
               h-full 
               w-full 
-              group-hover:scale-110 
+              group-hover:scale-110
               transition
             "
             src="https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg"
